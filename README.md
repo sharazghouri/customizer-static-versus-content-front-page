@@ -99,14 +99,18 @@ _No additional exercises are required, though students may practice toggling bet
 3.  Static page
 4.  Home page
 
-**Answer:** 2\. Dynamic feed of your latest posts **Why use the Customizer to set a front page?**
+**Answer:** 2. Dynamic feed of your latest posts
+
+**Why use the Customizer to set a front page?**
 
 1.  It's required by WordPress.
 2.  Themes do not support front page settings.
 3.  Dynamic blogs are better than static pages.
 4.  It's easy to preview the results of the Static Front Page setting.
 
-**Answer:** 4\. It's easy to preview the results of the Static Front Page setting. **Why should you set a Posts page?**
+**Answer:** 4. It's easy to preview the results of the Static Front Page setting.
+
+**Why should you set a Posts page?**
 
 1.  It's the alternate blog location, when a static page is set.
 2.  Otherwise you cannot display posts.
